@@ -49,7 +49,7 @@ public class XmLgeneratorApplication {
 	private static String fileSaveIn="";
 	private static String xmlPath="";
 	private static String inputExcelPath="";
-	// comment s
+	// comment s in main branch
 	private static String sampleXmlTemplate = "<FormData>\n" + "<LetterType>Cancellation Letter</LetterType>\n"
 			+ "<LetterCode>148</LetterCode>\n" + "<BrandName>ACRF</BrandName>\n"
 			+ "<ProductName>Cancer Care Plus</ProductName>\n" + "<DocId>96703101</DocId>\n"
